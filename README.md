@@ -3,6 +3,11 @@
 ## Schematic Editor Shortcuts
 
 ## PCB Editor Shortcuts
-CTRL + M    Measure distance
+    
+| Shortcuts   |            |  Cool |
+|----------|:-------------:|------:|
+| CTRL + M |  Measure distance | Measure distance |
+| CTRL + M |    Measure distance   |   Measure distance |
+| CTRL + M | Measure distance |    Measure distance |
 
 ## Interactive Routing Shortcuts
